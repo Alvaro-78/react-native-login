@@ -64,7 +64,7 @@ export default function App() {
 				<SvgTop />
 			</View>
 			<View style={styles.container}>
-				<Text style={styles.title}>Hello Word</Text>
+				<Text style={styles.title}>How to do Login</Text>
 				<Text style={styles.subTitle}>Sign In to your account</Text>
 				<TextInput placeholder="jhon@email.com" style={styles.textInput} />
 				<TextInput
