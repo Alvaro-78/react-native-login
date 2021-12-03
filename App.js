@@ -103,6 +103,7 @@ const styles = StyleSheet.create({
 	subTitle: {
 		fontSize: 15,
 		color: 'gray',
+		margin: 2,
 	},
 	textInput: {
 		padding: 10,
