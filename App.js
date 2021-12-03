@@ -119,5 +119,4 @@ const styles = StyleSheet.create({
 		color: 'gray',
 		marginTop: 20,
 	},
-	button: {},
 });
